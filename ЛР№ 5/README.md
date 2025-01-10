@@ -4,4 +4,5 @@
 ![image](currencies.jpg)
 
 ## Результаты тестов:
-![image](https://github.com/user-attachments/assets/82b28780-0d97-4543-abeb-d0c6c7cb67ff)
+![image](https://github.com/user-attachments/assets/c494a209-be29-4656-b560-b72ba3d78a4d)
+
