@@ -1,8 +1,6 @@
 import pytest
 from fibonacchi_lst import FibonacchiLst
 
-# Тесты для FibonacchiLst
-
 def test_fibonacchi_lst_basic():
     lst = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 1]
     fib_iterator = FibonacchiLst(lst)
