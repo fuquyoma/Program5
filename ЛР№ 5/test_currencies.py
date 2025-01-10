@@ -1,6 +1,6 @@
 import pytest
 from decimal import Decimal
-from main import CurrenciesLst  # Импортируем основной модуль
+from main import CurrenciesLst 
 
 def test_get_currencies_valid_ids():
     """Тест для проверки получения данных по валидным ID валют."""
