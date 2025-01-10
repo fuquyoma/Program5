@@ -18,7 +18,7 @@ def my_genn():
 
 Результаты тестов:
 
-![image](https://github.com/user-attachments/assets/58f7433d-b1a2-4a9b-b222-24f3eec8b9f9)
+![image](https://github.com/user-attachments/assets/7b63a599-0394-4098-8d76-71ff47012f76)
 
 ## 2 задание
 ### fibonacchi_lst.py
